@@ -7,7 +7,6 @@
 <!---Для компактной версии-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissf&layout=compact)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dissf&repo=pet-projects)
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dissfya)
 
 ### Connect with me:
