@@ -12,7 +12,6 @@
 
 ### Connect with me:
 <a href="https://t.me/dissfya" target="blank"><img align="center" src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/Telegram.svg" alt="dissf" height="40" width="40" /></a>
-![til](https://raw.githubusercontent.com/dissf/dissf/95fc459d17816e55f685bd0aab1af082b2c73e2c/icons/snk.svg)
 ### Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/6ec1238861f026a45dc8345512141017c67af3f0/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
