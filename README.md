@@ -2,10 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analyst</h3>
 
-🌱 I’m currently learning DA, DS, python
+🌱 I’m currently learning DA, DS, Python, ML, DL, Statistics and Probability theory.
 
 🌍 I speak Russian (native), English (B1)
-<!---Для компактной версии-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissf&layout=compact)
 
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dissfya)
