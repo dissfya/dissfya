@@ -15,6 +15,8 @@
 ### Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/6ec1238861f026a45dc8345512141017c67af3f0/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a>  
+### Libraries:
+pandas, numpy, sklearn, scipy, statsmodels, seaborn, matplotlib
 
 ### Tools:
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
