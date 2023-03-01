@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Vladimir
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Vladimir</h1>
 <h3 align="center">Data analyst</h3>
 
 🌱 I’m currently learning DA, DS, Python, ML, DL, Statistics and Probability theory.
