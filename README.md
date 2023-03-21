@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning DA, DS, Python, ML, DL, Statistics and Probability theory.
 
-🌍 I speak Russian (native), English (B1)
+🌍 I speak Russian (native), English (B2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissf&layout=compact)
 
