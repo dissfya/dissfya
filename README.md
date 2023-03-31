@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vladimir</h1>
 <h3 align="center">Data analyst</h3>
 
-🌱 I’m currently learning DA, DS, Python, ML, DL, Statistics and Probability theory.
+🌱 I’m currently learning DA, BI, Statistics and Probability theory.
 
 🌍 I speak Russian (native), English (B2)
 
