@@ -10,7 +10,6 @@
 - SQL: DML(Subquery, JOIN, GROUP BY, Window functions, CTE), DDL
 - MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
 - BI: Power BI, Tableau, Redash
-Git, Docker (basic)
 
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dissfya)  
 
