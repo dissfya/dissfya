@@ -1,15 +1,12 @@
 <h1 align="center">Hi there, I'm Vladimir</h1>
 <h3 align="center">Data analyst</h3>
 
-🌱 I’m currently learning DA, BI, Statistics and Probability theory.
-
 🌍 I speak Russian (native), English (B2)
 
 ### ⚒️ Tech Stack
 - Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib, sklearn, xgboost
-- SQL: DML(Subquery, JOIN, GROUP BY, Window functions, CTE), DDL
-- MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
-- BI: Power BI, Tableau, Redash
+- SQL: Subquery, JOIN, GROUP BY, Window functions, CTE
+- BI: Tableau, Redash, Power BI
 
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dissfya)  
 
@@ -21,4 +18,3 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="tableau.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/557c8e09a6b779ade6751ef3c354f8474dd85abb/icons/tableau.svg" alt="tableau" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dissf/dissf/557c8e09a6b779ade6751ef3c354f8474dd85abb/icons/microsoftexcel.svg" alt="Microsoft Excel" width="40" height="40"/> </a>
