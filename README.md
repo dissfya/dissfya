@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 
 ### ⚒️ Tech Stack
-- Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib, sklearn, xgboost, PyTorch
+- Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib, sklearn, xgboost, PyTorch, requests
 - SQL: Subquery, JOIN, GROUP BY, Window functions, CTE
 - BI: Tableau, Redash, Power BI
 
