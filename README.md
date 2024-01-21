@@ -2,9 +2,12 @@
 <h3 align="center">Data Analyst</h3>
 
 ### ⚒️ Tech Stack
-- Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib, sklearn, xgboost, PyTorch, requests
-- SQL: Subquery, JOIN, GROUP BY, Window functions, CTE
-- BI: Tableau, Redash, Power BI
+- Programming: Python, C++
+- Data Workflow: Pandas, Numpy, SQL
+- Visualization: Tableau, Metabase
+- ML: Scikit-learn, XGBoost
+- Deployment: Git, Airflow
+- Extra: A/B testing, PostHog, LaTeX
 
 🌍 I speak Russian (native), English (B2)
 
