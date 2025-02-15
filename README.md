@@ -10,8 +10,9 @@
 - Extra: A/B testing, PostHog, LaTeX
 
 🌍 I speak Russian (native), English (B2)
-
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dissfya)  
+<!---
+% ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dissfya)
+-->
 
 ### Connect with me:
 <a href="https://t.me/dissfya" target="blank"><img align="center" src="https://raw.githubusercontent.com/dissf/dissf/d6d4df21f25d0cbe928b8d3dd9b4eb03c29295cd/icons/Telegram.svg" alt="dissf" height="40" width="40" /></a>
